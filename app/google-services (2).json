@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916883221251",
+    "project_id": "taskprofinich-3c7b7",
+    "storage_bucket": "taskprofinich-3c7b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916883221251:android:5f0b92b4641c16f9bd5736",
+        "android_client_info": {
+          "package_name": "com.example.taskprofinich"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmjCHLlfBP8UFb9ErBKCfVdCIw1OgmAIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

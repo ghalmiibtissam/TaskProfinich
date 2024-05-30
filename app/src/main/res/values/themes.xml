@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Thème de base -->
+    <style name="Base.Theme.TaskProfinich" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Ajoutez des attributs spécifiques au thème de base ici si nécessaire -->
+    </style>
+
+    <!-- Thème personnalisé -->
+    <style name="Theme.TaskProfinich" parent="Base.Theme.TaskProfinich">
+        <!-- Ajoutez des attributs spécifiques au thème personnalisé ici si nécessaire -->
+    </style>
+</resources>

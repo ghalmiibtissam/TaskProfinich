@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "775304233255",
+    "firebase_url": "https://fir-sqlproject-default-rtdb.firebaseio.com",
+    "project_id": "fir-sqlproject",
+    "storage_bucket": "fir-sqlproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775304233255:android:6fb4deae47e21cc3f52902",
+        "android_client_info": {
+          "package_name": "com.example.firebasesqlproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbUKLCdZ_n4oJz2tqlPhRxhXmEIFYAaq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
